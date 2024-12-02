@@ -31,7 +31,7 @@ cd ~/Desktop
 set nu
 
 " Add clipboard access
-set cb=unnamed
+set cb=unnamedplus
 
 " Seach highlights
 set hls
@@ -80,6 +80,4 @@ tmap <F5> <C-W>:ls<CR>
 " Map ; to :
 map ; :
 
-" Set vim clipboard to system clipboard
-set clipboard=unnamedplus
 
